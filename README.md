@@ -1,4 +1,4 @@
-# Kaggle-Data-Visualization
+rm -rf "Data-science-Kaggle"# Kaggle-Data-Visualization
 Practical exercises on data visualization using datasets from the website  https://www.kaggle.com/
 
 # Projeto 1 -- Top 50 Bestselling Novels 2009-2021 of Amazon(Amazon top50_books.ipynb)
