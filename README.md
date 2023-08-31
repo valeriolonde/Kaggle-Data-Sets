@@ -1,4 +1,5 @@
-rm -rf "Data-science-Kaggle"# Kaggle-Data-Visualization
+# Kaggle-Data-Sets
+
 Practical exercises on data visualization using datasets from the website  https://www.kaggle.com/
 
 # Projeto 1 -- Top 50 Bestselling Novels 2009-2021 of Amazon(Amazon top50_books.ipynb)
@@ -41,3 +42,7 @@ Nessa segunda parte, exploramos os principais métodos básicos de machine learn
 Este exercício é baseado na competição "Restaurant Revenue Prediction" do Kaggle, em que o objetivo é prever possíveis receitas de outros restaurantes com base em suas características e estimativas. A variável a ser prevista é contínua e a base de dados pode ser baixada em [Restaurant Revenue Prediction](https://www.kaggle.com/c/restaurant-revenue-prediction).
 
 Na primeira parte, fizemos uma estatística descritiva para analisar as variáveis com relação ao feature. Na segunda parte fizemos engenharia de feature e modelagem. A análise também pode ser vista em [Restaurant Revenue Prediction](http://prorum.com/?qa=8116/exercicio-machine-learning-restaurant-revenue-prediction#a8227). Utilizamos vários métodos tais como random forest, linear regression, gradient boosting e decision tree. Depois escolhemos o modelo com menor erro quadrado médio.  
+
+# Projeto 4 -- Automobile Data Sets
+
+Este exercício é baseado na base de dados presente em [AUTO DATA SET](https://www.kaggle.com/datasets/toramky/automobile-dataset). No caderno [Estatísticas descritivas](https://github.com/valeriolonde/Kaggle-Data-Sets/blob/main/Automobile%20DataSet/Estat%C3%ADsticas%20descritivas%20--%20data.set.ipynb) fiz análises das relações entre a variável mpg -- que é a quantidade de milhas por galão, que é uma medida de eficiência de combustível em veículos automotores, especialmente carros --, com as outras variáveis quantitativas e qualitativas com o objetivo de buscar bons preditores dessa variável. 
